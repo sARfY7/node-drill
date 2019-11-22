@@ -9,10 +9,6 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 No Prerequisites
 
-```
-Give examples
-```
-
 ### Installing
 
 Just clone the repo and run `node index.js`
